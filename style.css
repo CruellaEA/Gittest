@@ -1,3 +1,6 @@
 body {
     color: blueviolet;
 }
+body {
+    color-interpolation-filters: sRGB;
+}
