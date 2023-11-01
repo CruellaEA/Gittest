@@ -4,3 +4,9 @@ body {
 body {
     color-interpolation-filters: sRGB;
 }
+p{
+    color: blue;
+}
+h1{
+    font-size: 20px;
+}
